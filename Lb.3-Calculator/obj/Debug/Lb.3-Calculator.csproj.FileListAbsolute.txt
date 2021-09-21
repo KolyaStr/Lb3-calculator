@@ -1,0 +1,7 @@
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\bin\Debug\Lb.3-Calculator.exe.config
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\bin\Debug\Lb.3-Calculator.exe
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\bin\Debug\Lb.3-Calculator.pdb
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\obj\Debug\Lb.3-Calculator.csprojAssemblyReference.cache
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\obj\Debug\Lb.3-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\obj\Debug\Lb.3-Calculator.exe
+C:\Users\Kolya\source\repos\Lb.3-Calculator\Lb.3-Calculator\obj\Debug\Lb.3-Calculator.pdb
