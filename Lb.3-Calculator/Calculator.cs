@@ -8,9 +8,9 @@ namespace Lb._3_Calculator
 {
     class Calculator
     {
-        double sum = 0;
-        double minus = 0;
-        double mult = 0;
+        private double sum = 0;
+        private double minus = 0;
+        private double mult = 0;
         public double x { get; set; }
         public double y { get; set; }
 

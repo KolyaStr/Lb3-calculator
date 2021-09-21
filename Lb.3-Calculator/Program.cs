@@ -60,7 +60,7 @@ namespace Lb._3_Calculator
 
                 Console.WriteLine("Введите первое число: ");
                 string num1 = Console.ReadLine();
-                if (num1.Any(q => char.IsLetter(q)))
+                if (num1.Any(q => char.IsLetter(q)) || string.IsNullOrEmpty(num1))
                 { 
                     Console.WriteLine("Ошибка, вы ввели не число!");
                     continue;
@@ -75,7 +75,7 @@ namespace Lb._3_Calculator
                 {
                     Console.WriteLine("Введите второе число: ");
                     string num2 = Console.ReadLine();
-                    if (num2.Any(q => char.IsLetter(q)))
+                    if (num2.Any(q => char.IsLetter(q)) || string.IsNullOrEmpty(num2))
                     {
                         Console.WriteLine("Ошибка, вы ввели не число!");
                         continue;
